@@ -29,6 +29,15 @@ ps：L1有额外好处，它更容易获得“稀释”解，w非零分量更少
 
 ## 2. 神经网络
 
+### (1)
+
+
+
+
+
+
+
+
 
 
 
@@ -73,6 +82,18 @@ ps：L1有额外好处，它更容易获得“稀释”解，w非零分量更少
 - 【过拟合克星——正则化-哔哩哔哩】 https://b23.tv/BV1DHJ76SEmj
 - https://zhuanlan.zhihu.com/p/29957294?utm_psn=2084204423891501345
 - https://zhuanlan.zhihu.com/p/1889324986159829238?utm_psn=2084204339002881373
+- 与AI对话的链接：https://www.doubao.com/thread/xXqZcXzIYGXHqhKJB
+
+### 2. 神经网络
+- https://zhuanlan.zhihu.com/p/88501476?utm_psn=2084701724992976197
+
+
+
+
+
+
+
+
 
 
 
