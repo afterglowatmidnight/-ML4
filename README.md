@@ -155,6 +155,17 @@ Python虚拟环境是一个独立的Python运行环境，用来把不同项目�
 - **避免污染全局环境**：避免把大量项目依赖都安装到全局Python中，防止后续版本混乱
 - **方便分类，看着清晰**
 
+### (2)(3)
+
+PyTorch是一个开源深度学习框架。它基于Python，专门用于构建和训练神经网络。
+
+截图在此链接仓库中：https://github.com/afterglowatmidnight/PyTorch-Trial.git
+
+---
+
+## 5. 学习率
+
+### (1)
 
 
 
@@ -212,6 +223,7 @@ Python虚拟环境是一个独立的Python运行环境，用来把不同项目�
 
 ### 4. 创建与配置环境
 - https://zhuanlan.zhihu.com/p/108534526?utm_psn=2085101444600968896
+- 与AI对话的链接（主要是下载Python）：https://chat.deepseek.com/share/gqu50amkdl5smusqu7
 
 
 
