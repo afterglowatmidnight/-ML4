@@ -188,7 +188,8 @@ Typical ones:
 - https://zhuanlan.zhihu.com/p/261059231?utm_psn=2084921593596331425
 - 一张图看懂看懂机器学习：损失函数Loss 损失函数（Los... https://xhslink.cn/o/4OVafTlrZ08
 - 算法岗面试题：损失函数 面试官： 有哪些损失函数？ ... https://xhslink.cn/o/JOamF1mEOx
-- 机器学习第二周总结：迈进门槛一步~ 1. 损失函数与正... https://xhslink.cn/o/5pppdipe6l6 
+- 机器学习第二周总结：迈进门槛一步~ 1. 损失函数与正... https://xhslink.cn/o/5pppdipe6l6
+- https://zhuanlan.zhihu.com/p/15203709902?utm_psn=2084941223689770704
 
 
 
