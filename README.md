@@ -225,7 +225,8 @@ PyTorch是一个开源深度学习框架。它基于Python，专门用于构建�
 - https://zhuanlan.zhihu.com/p/108534526?utm_psn=2085101444600968896
 - 与AI对话的链接（主要是下载Python）：https://chat.deepseek.com/share/gqu50amkdl5smusqu7
 
-
+### 5.学习率
+- https://zhuanlan.zhihu.com/p/48332628?utm_psn=2085132073078089511
 
 
 
