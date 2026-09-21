@@ -205,7 +205,11 @@ ps：在此查询了**超参数**的概念：机器学习模型在开始训练�
 -问题：浪费计算资源
 -原因：算太久啦
 
-附：直观理解图在该仓库图片：
+附：直观理解图在该仓库图片：https://github.com/afterglowatmidnight/learning-rate.git
+
+### (4)
+
+
 
 
 
